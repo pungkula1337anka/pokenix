@@ -48,7 +48,7 @@ in {
     # TRAINER CARD - WHO ARE YOU? - TEXT MUST STAY INSIDE THE QUOTES. ALL FIELDS ARE OPTINAL
     # ★ ─────────────────────────────────────────────────────────────────────── ★
     trainer = {
-      name       = "Nisse"; # <-- CHANGE ME!
+      name       = "NisseSnus"; # <-- CHANGE ME!
       picture    = ./profile-picture.png;
       about      = "★ breeding master ★ shiny hunter ★ ducklett lover ★";
       region     = "Sweden";
